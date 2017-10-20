@@ -12,6 +12,6 @@ baseline: spec
 	  	spec configuration: 'XMLSupport' with: [
 			spec
 				version: '1.0';
-				repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo60/main'].
+				repository: 'http://smalltalkhub.com/mc/PharoExtras/XMLSupport/main'].
 				
 		spec package: 'SeasideTesting' ].
