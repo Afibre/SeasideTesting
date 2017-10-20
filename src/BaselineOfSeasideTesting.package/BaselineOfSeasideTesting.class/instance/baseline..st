@@ -8,6 +8,8 @@ baseline: spec
 		spec configuration: 'Seaside3' with: [
 			spec repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo60/main' ].
 	  	spec configuration: 'XMLSupport' with: [
-			spec repository: 'http://smalltalkhub.com/mc/PharoExtras/XMLSupport/main'].
+			spec 
+				versionString: '1.1.7';
+				repository: 'http://smalltalkhub.com/mc/PharoExtras/XMLSupport/main'].
 				
 		spec package: 'SeasideTesting' ].
