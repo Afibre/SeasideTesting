@@ -6,9 +6,7 @@ baseline: spec
 		spec blessing: #baseline.
 		
 		spec configuration: 'Seaside3' with: [
-			spec
-				loads: #('Base');	 
-				repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo60/main' ].
+			spec repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo60/main' ].
 	  	spec configuration: 'XMLSupport' with: [
 			spec
 				version: '1.0';
