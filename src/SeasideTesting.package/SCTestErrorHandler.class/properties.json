@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WAWalkbackErrorHandler",
+	"category" : "SeasideTesting-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"case"
+	],
+	"name" : "SCTestErrorHandler",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cds 6/30/2009 14:43",
+	"super" : "WAApplication",
+	"category" : "SeasideTesting-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"testCase"
+	],
+	"name" : "SCTesterApplication",
+	"type" : "normal"
+}

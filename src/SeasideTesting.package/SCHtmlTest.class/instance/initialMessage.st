@@ -1,0 +1,3 @@
+accessing
+initialMessage
+	^'Hello world!'

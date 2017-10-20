@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "SeasideTesting-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"booleanList",
+		"number",
+		"message"
+	],
+	"name" : "SCHtmlTest",
+	"type" : "normal"
+}

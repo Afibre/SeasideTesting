@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WASession",
+	"category" : "SeasideTesting-TestRunner",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"testBuilder"
+	],
+	"name" : "SCTestBuilderSession",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "SeasideTesting-TestRunner",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"component",
+		"requests"
+	],
+	"name" : "SCTestBuilder",
+	"type" : "normal"
+}

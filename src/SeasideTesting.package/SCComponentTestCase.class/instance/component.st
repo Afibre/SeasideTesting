@@ -1,0 +1,3 @@
+component
+component
+	^runnerTask actualComponent

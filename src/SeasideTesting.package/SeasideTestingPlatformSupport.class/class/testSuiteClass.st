@@ -1,0 +1,3 @@
+*SeasideTesting
+testSuiteClass
+	^TestSuite

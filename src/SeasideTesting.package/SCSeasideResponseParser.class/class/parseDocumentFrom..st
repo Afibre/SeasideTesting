@@ -1,0 +1,3 @@
+parsing
+parseDocumentFrom: aStream
+	^SeasideTestingPlatformSupport parseSeasideDocumentFrom: aStream

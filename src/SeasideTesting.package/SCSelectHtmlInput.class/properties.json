@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SCHtmlInputComponent",
+	"category" : "SeasideTesting-Html Entities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selectedOptions"
+	],
+	"name" : "SCSelectHtmlInput",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "SCSeasideEntity",
+	"category" : "SeasideTesting-Html Entities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"form",
+		"value"
+	],
+	"name" : "SCHtmlInputComponent",
+	"type" : "normal"
+}

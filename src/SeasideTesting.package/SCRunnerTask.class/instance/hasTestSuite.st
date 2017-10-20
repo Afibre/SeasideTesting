@@ -1,0 +1,3 @@
+hacks
+hasTestSuite
+	^false

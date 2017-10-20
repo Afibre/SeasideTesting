@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WATask",
+	"category" : "SeasideTesting-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SCDoNothingTask",
+	"type" : "normal"
+}

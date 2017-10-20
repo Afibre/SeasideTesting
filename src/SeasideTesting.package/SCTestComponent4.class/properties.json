@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "SeasideTesting-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"firstSent",
+		"secondSent",
+		"thirdSent"
+	],
+	"name" : "SCTestComponent4",
+	"type" : "normal"
+}

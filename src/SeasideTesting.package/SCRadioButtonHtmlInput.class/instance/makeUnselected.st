@@ -1,0 +1,3 @@
+value
+makeUnselected
+	self privateMakeUnselected

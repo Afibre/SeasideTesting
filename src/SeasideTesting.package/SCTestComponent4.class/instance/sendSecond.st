@@ -1,0 +1,3 @@
+callbacks
+sendSecond
+	secondSent := true

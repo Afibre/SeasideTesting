@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "SeasideTesting-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"app",
+		"browser",
+		"pseudomain",
+		"handler",
+		"debugging",
+		"responseSema",
+		"runnerTask",
+		"session"
+	],
+	"name" : "SCComponentTestCase",
+	"type" : "normal"
+}

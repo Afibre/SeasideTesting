@@ -1,0 +1,1 @@
+Not a real XHTML element...just a place to hold CDATA.

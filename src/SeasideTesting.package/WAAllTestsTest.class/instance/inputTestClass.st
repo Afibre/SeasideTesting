@@ -1,0 +1,3 @@
+utility
+inputTestClass
+	^SCInputTest

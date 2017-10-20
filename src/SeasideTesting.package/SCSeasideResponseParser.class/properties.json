@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "SAXHandler",
+	"category" : "SeasideTesting-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"document",
+		"stack",
+		"response",
+		"currentForm",
+		"currentSelect",
+		"driver"
+	],
+	"name" : "SCSeasideResponseParser",
+	"type" : "normal"
+}

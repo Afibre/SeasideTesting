@@ -1,0 +1,3 @@
+testing
+isSelectInput
+	^false

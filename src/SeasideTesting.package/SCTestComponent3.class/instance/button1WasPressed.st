@@ -1,0 +1,3 @@
+accessing
+button1WasPressed
+	^button1WasPressed

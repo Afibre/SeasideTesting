@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "WATask",
+	"category" : "SeasideTesting-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"componentClass",
+		"initializationBlock",
+		"createComponentBlock",
+		"answerChecker",
+		"checker",
+		"component"
+	],
+	"name" : "SCRunnerTask",
+	"type" : "normal"
+}

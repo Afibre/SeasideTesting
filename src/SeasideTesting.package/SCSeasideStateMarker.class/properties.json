@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "SCSeasideEntity",
+	"category" : "SeasideTesting-Html Entities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sessionId",
+		"continuationId"
+	],
+	"name" : "SCSeasideStateMarker",
+	"type" : "normal"
+}

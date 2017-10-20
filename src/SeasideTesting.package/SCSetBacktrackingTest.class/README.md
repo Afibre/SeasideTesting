@@ -1,0 +1,1 @@
+Test whether Set instances are properly backtracked or not.  This test will probably not pass unless my extensions to Set in the package SC are loaded.  Beware, if you don't pass this test then don't trust that Set instances are properly backtracked by Seaside.

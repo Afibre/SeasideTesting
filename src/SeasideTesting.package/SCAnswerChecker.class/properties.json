@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WADecoration",
+	"category" : "SeasideTesting-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hasAnswer",
+		"answerValue"
+	],
+	"name" : "SCAnswerChecker",
+	"type" : "normal"
+}

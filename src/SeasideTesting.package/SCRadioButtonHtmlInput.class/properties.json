@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "SCHtmlInputComponent",
+	"category" : "SeasideTesting-Html Entities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"group",
+		"internalValue"
+	],
+	"name" : "SCRadioButtonHtmlInput",
+	"type" : "normal"
+}

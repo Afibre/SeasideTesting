@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cds 6/25/2007 16:33",
+	"super" : "SCComponentTestCase",
+	"category" : "SeasideTesting-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SCFileDownloadComponentTest",
+	"type" : "normal"
+}

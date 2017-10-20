@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "SCSeasideStateMarker",
+	"category" : "SeasideTesting-Html Entities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fullUrl",
+		"anchorNumber",
+		"path"
+	],
+	"name" : "SCSeasideAnchor",
+	"type" : "normal"
+}

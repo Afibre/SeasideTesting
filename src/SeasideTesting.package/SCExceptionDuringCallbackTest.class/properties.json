@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SCComponentTestCase",
+	"category" : "SeasideTesting-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SCExceptionDuringCallbackTest",
+	"type" : "normal"
+}

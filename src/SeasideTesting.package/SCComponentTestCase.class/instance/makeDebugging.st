@@ -1,0 +1,3 @@
+private
+makeDebugging
+	debugging := true
