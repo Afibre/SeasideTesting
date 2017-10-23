@@ -6,7 +6,7 @@ install:
   - pip install --user benchupload
 smalltalk:
   - Pharo-6.1
-  - Pharo-7.0
+#  - Pharo-7.0
 # bob-bench xUnit file analysis
 after_success:
   - benchupload --dir=$SMALLTALK_CI_BUILD
