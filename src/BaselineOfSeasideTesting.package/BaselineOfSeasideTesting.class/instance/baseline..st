@@ -13,4 +13,4 @@ baseline: spec
 				repository: 'http://smalltalkhub.com/mc/PharoExtras/XMLSupport/main'].
 				
 		spec package: 'SeasideTesting'.
-		self postLoadDoIt: #ensureSeasideDefault  ].
+		spec postLoadDoIt: #ensureSeasideDefault  ].
