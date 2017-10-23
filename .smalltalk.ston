@@ -1,0 +1,10 @@
+SmalltalkCISpec {
+  #specName : 'SeasideTesting',
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'SeasideTesting',
+      #onWarningLog : true,
+      #directory : 'src'
+    }
+  ]
+}
